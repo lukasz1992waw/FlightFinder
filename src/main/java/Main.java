@@ -25,7 +25,6 @@ class MobilePhone{
     public MobilePhone(String name) {
         this.name = name;
     }
-
     public void viewWalues(){
         System.out.println("The weight of " + name + " is " +weight + ". The price is "+ price);
     }

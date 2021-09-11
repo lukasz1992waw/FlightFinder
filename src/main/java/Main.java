@@ -30,9 +30,8 @@ class MobilePhone{
         System.out.println("The weight of " + name + " is " +weight + ". The price is "+ price);
     }
 
-    public String getValue(){
-        String all = "name " + name + " wegiht " + weight + " price "+ price;
+    public String getValue() {
+        String all = "name " + name + " wegiht " + weight + " price " + price;
         return all;
     }
-
 }

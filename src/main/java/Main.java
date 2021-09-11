@@ -34,4 +34,5 @@ class MobilePhone{
         String all = "name " + name + " wegiht " + weight + " price "+ price;
         return all;
     }
+
 }
